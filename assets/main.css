@@ -1,0 +1,15 @@
+li.nav-item {
+    padding-right:10px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+}
+
+li.nav-item.active {
+    background-color: darkviolet !important;
+}
+
+/* body {
+    background-color:#CCC !important;
+} */
